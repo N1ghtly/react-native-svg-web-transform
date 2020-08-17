@@ -19,8 +19,6 @@ There are two ways to drop this library in as replacement.
 
 ```javascript
 module.exports = {
-  ..., /* the existing configuration */
-
   resolve: {
     alias: {
       'react-native-svg': 'react-native-svg-web-transform'
