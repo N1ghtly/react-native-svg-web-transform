@@ -15,6 +15,10 @@ is transformed into
 
 There are two ways to drop this library in as replacement.
 
+## Installation
+
+`yarn add react-native-svg-web-transform`
+
 ## How to change your webpack config
 
 ```javascript
